@@ -1,0 +1,14 @@
+object: Forno Italian
+
+attributes:
+1. headChef    = "Mario"
+2. isOpen      = true
+3. appliances  = ["gas stove", "oven", "industrial mixer"]
+4. mealTickets = 22
+5. chefSalary  = 70500.60
+
+methods:
+1. printHeadChef: "MARIO"
+2. addAppliance:  ["gas stove", "oven", "industrial mixer", "toaster"]
+3. addTicket: 23
+4. payRaise: 80500.60
