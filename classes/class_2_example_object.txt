@@ -1,0 +1,14 @@
+object: Forno Menu
+
+attributes:
+1. numberOfPizzas = 5
+2. hasGFree       = true
+3. pastaType      = ["spaghetti", "ravioli", "gnocchi", "rigatoni"]
+4. chefsPick      = "Pesto gnocchi"
+5. cocktailPrice  = 9.50
+
+methods:
+1. addPizza: 6
+2. removePasta: ["spaghetti", "ravioli", "rigatoni"]
+3. changeChefPick: "Baked beef rigatoni"
+4. addExtraShot: 11.50
