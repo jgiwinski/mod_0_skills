@@ -1,0 +1,14 @@
+class: kitchen
+
+attributes:
+1. headChef (string)
+2. isOpen (boolean)
+3. appliances (object)
+4. mealTickets (integer)
+5. chefSalary (float)
+
+methods:
+1. printHeadChef (all caps name)
+2. addAppliance (adds appliance to object)
+3. addTicket (adds ticket)
+4. payRaise (adds to chefSalary)
