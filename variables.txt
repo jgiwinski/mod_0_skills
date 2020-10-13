@@ -1,0 +1,17 @@
+var food = "pesto gnocchi";
+
+var isDelicious = true;
+
+food = "meat balls";
+
+var num2 = 11;
+
+var num7 = 44;
+
+var quotient = (num7/num2);
+
+var songs = ["Human again", "Underwater", "I See You"];
+
+songs.shift();
+
+food.length; 

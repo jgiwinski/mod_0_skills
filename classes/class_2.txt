@@ -1,0 +1,14 @@
+class: Menu
+
+attributes:
+1. numberOfPizzas (integer)
+2. hasGFree (boolean)
+3. pastaType (object)
+4. chefsPick (string)
+5. drinkPrice (float)
+
+methods:
+1. addPizza (adds 1 pizza)
+2. removePasta (removes 1 pastaType from object)
+3. changeChefPick (re-assign chefsPick)
+4. raiseDrinkPrice (change drink price)
