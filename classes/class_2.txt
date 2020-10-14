@@ -5,10 +5,10 @@ attributes:
 2. hasGFree (boolean)
 3. pastaType (object)
 4. chefsPick (string)
-5. drinkPrice (float)
+5. cocktailPrice (float)
 
 methods:
 1. addPizza (adds 1 pizza)
 2. removePasta (removes 1 pastaType from object)
 3. changeChefPick (re-assign chefsPick)
-4. raiseDrinkPrice (change drink price)
+4. addExtraShot: (change drink price)
